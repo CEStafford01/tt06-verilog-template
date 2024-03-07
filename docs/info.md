@@ -12,7 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 This project is a cycling traffic light for a two road intersection with left-hand turn lanes. 
 The progam runs through a cycle of phases being; All red, Left turn road B, Road B green and left turn yellow, all road B yellow, All red, Left turn road A, Road A green and left turn yellow, all road A yellow,... and so on, in repeat. 
 Where road b is the road running "vertically" through the displasy and road A is the road running "horizontally" through the display.
-The signals are represented on a 2 digit display (2 seven-segment displays).
+The signals are represented on a 2 digit display (2 seven-segment displays). 
 
 ## How to test
 
